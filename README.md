@@ -1,0 +1,1 @@
+CircuitPython 10.2.1, libraries via circup
